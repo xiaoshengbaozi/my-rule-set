@@ -14,4 +14,4 @@ DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,haidan.video
 
 # 本地服务：
-DOMAIN-SUFFIX,redis:
+DOMAIN-SUFFIX,redis
