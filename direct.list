@@ -1,6 +1,17 @@
+# 国内补充：
 DOMAIN-SUFFIX,moon.fm
+DOMAIN-SUFFIX,freepik.com
+
+# 自有域名：
 DOMAIN-SUFFIX,boyzi.fun
 DOMAIN-SUFFIX,boyzi.top
-DOMAIN-SUFFIX,freepik.com
+DOMAIN-SUFFIX,linkstoday.top
+DOMAIN-SUFFIX,bzdns.top
+DOMAIN-SUFFIX,bbchats.top
+
+# PT站点：
 DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,haidan.video
+
+# 本地服务：
 DOMAIN-SUFFIX,redis:
