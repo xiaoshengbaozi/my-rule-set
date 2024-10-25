@@ -101,6 +101,28 @@
             "users": []
         }
     ],
+    "outbound_providers": [
+        {
+            "tag": "🆓 公益节点",
+            "type": "http",
+            "download_url": "http://142.171.191.221:3001/AmKCmZjUnymswd56ZwtM/download/collection/free?target=sing-box",
+            "download_interval": "4h",  // 每6小时更新配置
+            "path": "free.json", // 本地保存的文件名
+            "healthcheck_interval": "1h", // 每1小时检查一次健康状态
+            "download_ua": "sing-box", // 请求的用户代理
+            "download_detour": "Proxy" // 指定下载出口
+        },
+        {
+            "tag": "🛡️ 自建节点",
+            "type": "http",
+            "download_url": "http://142.171.191.221:3001/AmKCmZjUnymswd56ZwtM/download/myairport?target=sing-box",
+            "download_interval": "12h",  // 每6小时更新配置
+            "path": "myairport.json", // 本地保存的文件名
+            "healthcheck_interval": "1h", // 每1小时检查一次健康状态
+            "download_ua": "sing-box", // 请求的用户代理
+            "download_detour": "Proxy" // 指定下载出口
+        }
+    ]
     "outbounds": [
         {
             "tag": "🚀 节点选择",
@@ -113,6 +135,9 @@
         {
             "tag": "📹 YouTube",
             "type": "selector",
+            "providers": [
+                "🛡️ 自建节点",
+      ],
             "outbounds": [
                 "🚀 节点选择", "♻️ 自动选择", "🔯 香港自动", 
                 "🇭🇰 香港节点", "🇯🇵 日本节点", "🇺🇲 美国节点", "🐸 手动切换"
