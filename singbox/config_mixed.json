@@ -122,7 +122,7 @@
             "download_ua": "sing-box", // 请求的用户代理
             "download_detour": "Proxy" // 指定下载出口
         }
-    ]
+    ],
     "outbounds": [
         {
             "tag": "🚀 节点选择",
