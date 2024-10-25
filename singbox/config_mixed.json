@@ -101,28 +101,6 @@
             "users": []
         }
     ],
-    "outbound_providers": [
-        {
-            "tag": "🆓 公益节点",
-            "type": "http",
-            "download_url": "http://142.171.191.221:3001/AmKCmZjUnymswd56ZwtM/download/collection/free?target=sing-box",
-            "download_interval": "4h",
-            "path": "free.json",
-            "healthcheck_interval": "1h",
-            "download_ua": "sing-box",
-            "download_detour": "Proxy" 
-        },
-        {
-            "tag": "🛡️ 自建节点",
-            "type": "http",
-            "download_url": "http://142.171.191.221:3001/AmKCmZjUnymswd56ZwtM/download/myairport?target=sing-box",
-            "download_interval": "12h",
-            "path": "myairport.json",
-            "healthcheck_interval": "1h",
-            "download_ua": "sing-box",
-            "download_detour": "Proxy"
-        }
-    ],
     "outbounds": [
         {
             "tag": "🚀 节点选择",
@@ -135,9 +113,6 @@
         {
             "tag": "📹 YouTube",
             "type": "selector",
-            "providers": [
-                "🛡️ 自建节点"
-            ],
             "outbounds": [
                 "🚀 节点选择", "♻️ 自动选择", "🔯 香港自动", 
                 "🇭🇰 香港节点", "🇯🇵 日本节点", "🇺🇲 美国节点", "🐸 手动切换"
