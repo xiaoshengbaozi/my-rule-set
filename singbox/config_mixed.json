@@ -101,6 +101,18 @@
             "users": []
         }
     ],
+    "outbound_providers": [
+        {
+            "tag": "公益节点",
+            "type": "http",
+            "download_url": "http://142.171.191.221:3001/AmKCmZjUnymswd56ZwtM/download/collection/free?target=sing-box",
+            "download_interval": "24h",
+            "path": "singbox-http.json",
+            "healthcheck_interval": "1h",
+            "download_ua": "sing-box",
+            "download_detour": "🎯 全球直连"
+        }
+    ],
     "outbounds": [
         {
             "tag": "🚀 节点选择",
