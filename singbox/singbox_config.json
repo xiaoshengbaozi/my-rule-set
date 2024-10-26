@@ -240,15 +240,15 @@
         "tag": "proxy",
         "type": "selector",
         "outbounds": [
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto",
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择",
           "direct"
         ],
-        "default": "all-auto"
+        "default": "✅ 自动选择"
       },
       {
         "tag": "google",
@@ -256,12 +256,12 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "proxy"
       },
@@ -271,12 +271,12 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "direct"
       },
@@ -286,12 +286,12 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "proxy"
       },
@@ -301,12 +301,12 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "direct"
       },
@@ -316,12 +316,12 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "proxy"
       },
@@ -331,12 +331,12 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "proxy"
       },
@@ -346,12 +346,12 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "proxy"
       },
@@ -361,12 +361,12 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "proxy"
       },
@@ -376,12 +376,12 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "direct"
       },
@@ -391,17 +391,17 @@
         "outbounds": [
           "proxy",
           "direct",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "proxy"
       },
       {
-        "tag": "hk-auto",
+        "tag": "🇭🇰 香港自动",
         "type": "urltest",
         "outbounds": [],
         "url": "https://www.gstatic.com/generate_204",
@@ -409,7 +409,7 @@
         "tolerance": 50
       },
       {
-        "tag": "tw-auto",
+        "tag": "🇹🇼 台湾自动",
         "type": "urltest",
         "outbounds": [],
         "url": "https://www.gstatic.com/generate_204",
@@ -417,7 +417,7 @@
         "tolerance": 50
       },
       {
-        "tag": "jp-auto",
+        "tag": "🇯🇵 日本自动",
         "type": "urltest",
         "outbounds": [],
         "url": "https://www.gstatic.com/generate_204",
@@ -425,7 +425,7 @@
         "tolerance": 50
       },
       {
-        "tag": "sg-auto",
+        "tag": "🇸🇬 狮城自动",
         "type": "urltest",
         "outbounds": [],
         "url": "https://www.gstatic.com/generate_204",
@@ -433,7 +433,7 @@
         "tolerance": 50
       },
       {
-        "tag": "us-auto",
+        "tag": "🇺🇲 美国自动",
         "type": "urltest",
         "outbounds": [],
         "url": "https://www.gstatic.com/generate_204",
@@ -441,7 +441,7 @@
         "tolerance": 50
       },
       {
-        "tag": "all-auto",
+        "tag": "✅ 自动选择",
         "type": "urltest",
         "outbounds": [],
         "url": "https://www.gstatic.com/generate_204",
@@ -454,12 +454,12 @@
         "outbounds": [
           "direct",
           "proxy",
-          "hk-auto",
-          "tw-auto",
-          "jp-auto",
-          "sg-auto",
-          "us-auto",
-          "all-auto"
+          "🇭🇰 香港自动",
+          "🇹🇼 台湾自动",
+          "🇯🇵 日本自动",
+          "🇸🇬 狮城自动",
+          "🇺🇲 美国自动",
+          "✅ 自动选择"
         ],
         "default": "direct"
       },
