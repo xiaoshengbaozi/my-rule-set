@@ -1,0 +1,64 @@
+<svg
+  viewBox="0 0 400 400"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <clipPath
+    id="circle-clip"
+  >
+    <circle
+      cx="200"
+      cy="200"
+      r="200"
+    />
+  </clipPath>
+  <path
+    d="
+      M 0 0
+      h 400
+      v 400
+    "
+    fill="none"
+  />
+  <g
+    clip-path="url(#circle-clip)"
+  >
+    <circle
+      cx="200"
+      cy="200"
+      r="200"
+      fill="#fefbcc"
+    />
+    <g
+      fill="none"
+      stroke-width="40"
+    >
+      <circle
+        cx="200"
+        cy="200"
+        r="137.5"
+        stroke="#0a3b85"
+      />
+      <circle
+        cx="10"
+        cy="200"
+        r="137.5"
+        stroke="#e4001b"
+      />
+      <circle
+        cx="390"
+        cy="200"
+        r="137.5"
+        stroke="#33a038"
+      />
+      <path
+        d="
+          M 68.93 158.4
+          c 12.85 -40.5 43.97 -72.88 83.57 -87.48
+          M 325 257.3
+          c -12.4 27 -33.3 49.3 -59.2 63.5
+        "
+        stroke="#0a3b85"
+      />
+    </g>
+  </g>
+</svg>
