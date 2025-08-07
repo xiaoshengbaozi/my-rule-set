@@ -3,5 +3,5 @@ DOMAIN-SUFFIX,*.us.kg
 DOMAIN-SUFFIX,xiaoshengbaozi.us.kg
 DOMAIN-SUFFIX,register.us.kg
 DOMAIN-SUFFIX,nodeseek.com
-DOMAIN-SUFFIX,*.dpdns.org
-DOMAIN-SUFFIX,xiaoshengbaozi.dpdns.org
+#DOMAIN-SUFFIX,*.dpdns.org
+#DOMAIN-SUFFIX,xiaoshengbaozi.dpdns.org
